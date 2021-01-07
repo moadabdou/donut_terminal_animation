@@ -1,0 +1,16 @@
+{
+  "name": "donut_anime",
+  "version": "1.0.0",
+  "description": "a donut animation on terminal  using js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "terminle",
+    "animation",
+    "donut"
+  ],
+  "author": "moad abdou",
+  "license": "MIT"
+}
